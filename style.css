@@ -1,0 +1,9 @@
+#titulo{
+    color:rgb(54, 35, 21);
+    font-style: italic;
+}
+
+.sub-titulo, .post_titulo{
+    color: chocolate;
+    font-style: italic;
+}
