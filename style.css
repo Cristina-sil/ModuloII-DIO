@@ -54,3 +54,10 @@ img{
 }
 
 
+.lista_de_contatos{
+    /*Deixando a lista sem marcador*/
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+
