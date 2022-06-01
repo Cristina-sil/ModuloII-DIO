@@ -1,9 +1,35 @@
+body{
+    background-color: rgb(190, 159, 137);
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.imagemPerfil{
+    height: 300px;
+    width: 300px;
+}
+.post{
+    background: rgb(206, 189, 189);
+    padding: 10px;
+    border: 2px solid rgb(70, 41, 7);
+    margin: 15px;
+}
+
+
 #titulo{
     color:rgb(54, 35, 21);
     font-style: italic;
+    margin: 10px;
 }
 
 .sub-titulo, .post_titulo{
     color: chocolate;
     font-style: italic;
+    margin: 10px;
 }
+
+
