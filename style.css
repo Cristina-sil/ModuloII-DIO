@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(190, 159, 137);
+    background-color: rgb(128, 98, 118);
 }
 
 img{
@@ -17,21 +17,37 @@ img{
 .post{
     background: rgb(206, 189, 189);
     padding: 10px;
-    border: 2px solid rgb(70, 41, 7);
+    border: 2px solid rgb(128, 5, 81);
     margin: 15px;
 }
 
 
 #titulo{
-    color:rgb(54, 35, 21);
+    color:rgb(54, 21, 54);
     font-style: italic;
-    margin: 10px;
+    margin-left: 25px;
+    font-size: 25px;
 }
 
-.sub-titulo, .post_titulo{
-    color: chocolate;
+.sub-titulo{
+    color: rgb(128, 39, 116);
     font-style: italic;
     margin: 10px;
+    margin-left: 25px;
+    font-size: 20px;
 }
 
+.post_titulo{
+    color: rgb(128, 39, 116);
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.biografia{
+    /*Texto ficará alinhado*/
+    text-align: justify;
+    /*Todas as margens terão a mesma proporção*/
+    margin: 10px;
+}
 
