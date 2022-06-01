@@ -11,6 +11,8 @@ img{
 .imagemPerfil{
     height: 300px;
     width: 300px;
+    padding: 10px;
+    margin: 15px;
 }
 .post{
     background: rgb(206, 189, 189);
